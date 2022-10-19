@@ -1,0 +1,21 @@
+Os arquivos nesse GitHub estão relacionados ao Trabalho de Conclusão de Curso (TCC):
+
+PREVISÃO DA POTÊNCIA GERADA EM PARQUES EÓLICOS DO BRASIL UTILIZANDO APRENDIZADO DE MÁQUINA
+
+Aluno: Gabriel Sant'Clair Alves dos Santos
+Curso: Engenharia Mecânica
+Orientadora: Janaína Sant'Anna Gomide Gomes
+
+O presente trabalho recebeu auxílio do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPQ) através
+do Programa Institucional de Bolsas de Iniciação Científica (PIBIC).
+
+
+Para que o programa utilizado no referido trabalho seja reproduzido deve-se:
+
+1- Descompactar os arquivos "Dados Meterologicos.zip" e "Dados Potencia.zip" em algum local de armazenamento 
+   (e.g.: HD, Google Drive, etc.)
+2- Abrir o arquivo "Modelo_Final_TCC.ipynb" através do Google Colab ou do Jupyter Notebook (biblioteca do Python)
+3- Alterar o caminho dos arquivos de dados de potência (mencionados na SEÇÃO 1 do "Modelo_Final_TCC.ipynb"), conforme
+   foram alocados no passo 1 do presente READ ME
+4- Alterar o caminho dos arquivos de dados meterológicos (mencionados na SEÇÃO 2 do "Modelo_Final_TCC.ipynb"), conforme
+   foram alocados no passo 1 do presente READ ME
